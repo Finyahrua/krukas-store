@@ -3,7 +3,7 @@ import HomeScreen from "./screens/HomeScreen";
 
 function App() {
   return (
-    <div className="px-[40px]">
+    <div className="px-[40px] bg-[#eee] overflow-hidden">
       <HomeScreen />
     </div>
   );
